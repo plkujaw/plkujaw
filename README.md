@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="/linkedin.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/www.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/twitter.png" alt="twitter" width="24px"></a>
+<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="/linkedin-icon.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/www-icon.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/tw-icon.png" alt="twitter" width="24px"></a>
 </p>
 <p align="center">
 <a href="#about">About</a> |
@@ -16,7 +16,7 @@
 
 ## About
 
-Enthusiastic and positively driven recent career changer turned into software/web developer. 
+Enthusiastic and positively driven recent career changer turned into software/web developer.
 Excited to start building a solid, beautiful, user-focused and meaningful applications using the latest digital tech.
 
 ## Skills
@@ -29,27 +29,29 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
 ## Projects
 
 -   [community video](https://github.com/plkujaw/co-vid20-20)
-    -  Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
+
+    -   Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
     -   Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
     -   Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara.
-    
-- [corona run game](https://github.com/plkujaw/hfh_corona_game)
 
-  - Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
-  - Tech stack: JavaScritpt, p5.js.
+-   [corona run game](https://github.com/plkujaw/hfh_corona_game)
+
+    -   Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
+    -   Tech stack: JavaScritpt, p5.js.
 
 -   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
+
     -   Classic rock, paper, scissors game developed following TDD principles.
     -   Tech stack: Ruby, Sinatra, CSS, RSpec, Capybara.
 
 -   [colour flipper](https://github.com/plkujaw/js-colour-flipper)
+
     -   Background colour generator and flipper written in Vanilla JavaScript.
     -   Tech stack: Vanilla JavaScript, HTML, CSS.
-    
-- [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
-    - Check if the given phrase is a palindrome
-    - Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
-    
+
+-   [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
+    -   Check if the given phrase is a palindrome
+    -   Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
 
 ## Education
 
@@ -121,7 +123,8 @@ Junior AV Technician</br></br>
 #### Self-employed (Apr 2016 – May 2017)</br>
 
 London, United Kingdom</br></br>
-- Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
+
+-   Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
 
 #### Bombardier Transportation (Mar 2015 – Mar 2016)</br>
 
