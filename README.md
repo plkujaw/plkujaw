@@ -37,7 +37,7 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
 -   [corona run game](https://github.com/plkujaw/hfh_corona_game)
 
     -   Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
-    -   Tech stack: JavaScritpt, p5.js.
+    -   Tech stack: JavaScript, p5.js.
 
 -   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
 
