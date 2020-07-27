@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/linkedin-icon.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="/www-icon.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="/tw-icon.png" alt="twitter" width="24px"></a>
+<a href="https://linkedin.com/in/kubajawor" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/linkedin-icon.png" alt="linkedin" width="24px"></a> <a href="https://kubajawor.dev" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/www-icon.png" alt="www" width="24px"></a> <a href="https://twitter.com/plkujaw" target="_blank" rel="norefferer"><img src="https://github.com/plkujaw/plkujaw/blob/master/tw-icon.png" alt="twitter" width="24px"></a>
 </p>
 <p align="center">
 <a href="#about">About</a> |
