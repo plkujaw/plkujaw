@@ -126,11 +126,11 @@ On-call/Installation AV Technician
 London, United Kingdom</br>
 Junior AV Technician
 
--  Cable termination and testing, AV mequipment installation and configuration.
+-  Cable termination and testing, AV mequipment installation and configuration. </br></br>
 
 #### Self-employed (Apr 2016 – May 2017)</br>
 
-London, United Kingdom</br></br>
+London, United Kingdom
 
 -   Worked independently as an individual contractor installing and improving electrical installations for clients on a paid basis.
 
