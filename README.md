@@ -50,8 +50,13 @@ Excited to start building a solid, beautiful, user-focused and meaningful applic
     -   Tech stack: Vanilla JavaScript, HTML, CSS.
 
 -   [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
-    -   Check if the given phrase is a palindrome
+    -   Check if the given phrase is a palindrome.
     -   Tech stack: Vanilla JavaScript, Mocha, HTML, CSS.
+    
+-   [big city](https://plkujaw.github.io/bigcity)
+    -   HTML/CSS exercise - to create a website based only on a Photoshop layout.
+    -   Tech stack: HTML, CSS.
+   
 
 ## Education
 
