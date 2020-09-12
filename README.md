@@ -14,7 +14,7 @@
 
 ## About
 
-Enthusiastic and positively driven web developer, recent career changer, software development boot camp graduate with a good eye for detail and interest in design and UI/UX. Excited to start building solid, beautiful, user-focused and meaningful digital products using the latest technologies - JavaScript (ES6), HMTL5, CSS3 together with strong communication and interpersonal skills.
+Enthusiastic and positively driven developer, recent career changer, software development boot camp graduate with a good eye for detail and interest in design and UI/UX. Excited to start building solid, beautiful, user-focused and meaningful digital products using the best practices in software development and the latest technologies - JavaScript (ES6), HMTL5, CSS3 together with strong communication, organisational and interpersonal skills.
 
 ## Experience
 
