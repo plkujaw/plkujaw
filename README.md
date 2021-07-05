@@ -17,8 +17,8 @@ Enthusiastic and positively driven developer with a good eye for detail. Committ
 
 ## Experience
 
-**Junior Web Developer at Lattimore and Friends (05/2021 – present)**
-Web Agency
+**Junior Web Developer at Lattimore and Friends (05/2021 – present)**</br>
+Web Agency</br>
 Remote, UK
 
 - Working remotely in a digital agency environment to take ownership of and develop custom WordPress theme-based websites,
@@ -26,8 +26,8 @@ Remote, UK
 - implementing custom WordPress Taxonomies and Post Types to provide project-specific requirements,
 - close collaboration with project managers to deliver projects on time and manage client’s expectations.
 
-**Junior Developer at Pixelfish (10/2020 – 05/2021)**
-Brand and Web Design Studio
+**Junior Developer at Pixelfish (10/2020 – 05/2021)**</br>
+Brand and Web Design Studio</br>
 Remote, UK
 
 - Working remotely with Creative Director and Lead Developer to deliver custom-build WordPress platforms using following tools:
