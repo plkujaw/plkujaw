@@ -4,7 +4,6 @@
 <p align="center">
 <a href="#about">About</a> |
 <a href="#experience">Experience</a> |
-<a href="#projects">Projects</a> |
 <a href="#education">Education</a> |
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
 </p>
@@ -14,9 +13,31 @@
 
 ## About
 
-Enthusiastic and positively driven developer, recent career changer, software development boot camp graduate with a good eye for detail and interest in design and UI/UX. Excited to start building solid, beautiful, user-focused and meaningful digital products using the best practices in software development and the latest technologies - JavaScript (ES6), HMTL5, CSS3 together with strong communication, organisational and interpersonal skills.
+Enthusiastic and positively driven developer with a good eye for detail. Committed to building solid, beautiful, user-focused and meaningful digital products using the best practices in sustainable software and web development by utilising the latest technologies and tools - JavaScript, HMTL5, CSS3, WordPress, SSCS, Git together with strong communication, organisational and interpersonal skills. Frequent attendant of webinars around Green Tech and Sustainable Web/Software Development subjects.
 
 ## Experience
+
+**Junior Web Developer at Lattimore and Friends (05/2021 – present)**
+Web Agency
+Remote, UK
+
+- Working remotely in a digital agency environment to take ownership of and develop custom WordPress theme-based websites,
+- using Advanced Custom Fields for custom data,
+- implementing custom WordPress Taxonomies and Post Types to provide project-specific requirements,
+- close collaboration with project managers to deliver projects on time and manage client’s expectations.
+
+**Junior Developer at Pixelfish (10/2020 – 05/2021)**
+Brand and Web Design Studio
+Remote, UK
+
+- Working remotely with Creative Director and Lead Developer to deliver custom-build WordPress platforms using following tools:
+  - Timber and Twig for templating,
+  - SCSS preprocessor,
+  - Gulp.js for automated workflow,
+  - Figma for working with design and prototypes,
+  - Git (Bitbucket) for collaboration and version control.
+  - Working on different projects simultaneously and juggling priorities.
+
 
 **Lewis Light & Sound** (09/2018 – 01/2020)</br>
 **1st Stop Home Technology** (03/2018 – 08/2018)</br>
@@ -33,80 +54,12 @@ Progressed from Junior AV Technician to Home Automation Engineer. To be able to 
 - Ensured **continuous learning** by taking many professional training and certifications.
 
 
-**Self-employed** (04/2016 – 05/2017)</br>
-London, UK
-
-Electrical Improver</br>
-- Put to use **adaptability and organisational skills** to run my own business and work independently as an individual contractor.
-
-
-**Bombardier Transportation** (03/2015 – 03/2016)</br>
-Katowice, Poland
-
-Service Coordinator</br>
-- Used **time management** and organisational skills to schedule and manage the team's work.
-
-
-### Courses and certifications
-
-Pakedge (07/2018)</br>
-London, United Kingdom
-
--   Certification: Pakedge Certified Network Administrator</br></br>
-
-Control4 (03/2018)</br>
-York, United Kingdom
-
--   Certification: Control4 Automation Programmer</br></br>
-
-Uxbridge College (01/2017 - 03/2017)</br>
-London, United Kingdom
-
--   Professional Course: Smart Home Installation
-
-## Projects
--   [big city](https://github.com/plkujaw/bigcity)
-    -   Create a functioning, responsive website based only on a Photoshop design/layout.
-    -   Tech stack: HTML, CSS, JavaScript, Jest.
-    
-    
--   [palindrome detector](https://github.com/plkujaw/js-palindrome-detector)
-    -   Check if the given phrase is a palindrome.
-    -   Tech stack: HTML, CSS, JavaScript, Mocha.
-    
-    
--   [colour flipper](https://github.com/plkujaw/js-colour-flipper)
-
-    -   Background colour generator and flipper written in Vanilla JavaScript.
-    -   Tech stack: HTML, CSS, JavaScript.
-    
-    
--   [corona run game](https://github.com/plkujaw/hfh_corona_game)
-
-    -   Project build for [#hackforheroes](https://twitter.com/hashtag/hackforheroes), a two days and a half hackathon organized by Makers. The main theme was developing an app inspired by the Covid-19 crisis.
-    -   Tech stack: JavaScript, p5.js, CSS.
-
-    
--   [community video](https://github.com/plkujaw/co-vid20-20)
-
-    -   Makers Final team project ([demo video](https://youtu.be/xNpah5xL_l0?t=2597))
-    -   Platform where users can upload videos sharing their skills. It was inspired by the CoVid19 outbreak where most of the world had to respect social distancing and have most of their lives occur in the online world. The goal was to allow community members to be able to learn new skills during the time of lockdown and support each other.
-    -   Tech stack: Ruby on Rails, PostgreSQL, PayPal API, JavaScript, CSS, RSpec, Capybara.
-
-
--   [rock, paper, scissors](https://github.com/plkujaw/rps-challenge)
-
-    -   Classic rock, paper, scissors game developed following TDD principles.
-    -   Tech stack: Ruby, Sinatra, CSS, RSpec, Capybara.
-   
-
 ## Education
 
 #### [Makers Academy](https://makers.tech) (Jan - May 2020)</br>
 London, United Kingdom
 
--   16-week full-time Software Engineering training course during which I successfully worked in an agile team environment.</br>
-I used my **communication and teamwork** skills to pair and collaborate effectively in high-pressure scenarios using **JavaScript, HTML, CSS, Ruby** programming languages, **GitHub** for version control, **Trello** for workflow and software development **best practices**. 
+-   16-week full-time Software Engineering training course.
 
 #### Poznan Higher School of Logistics (2011 - 2012)</br>
 Poznan, Poland
@@ -138,7 +91,6 @@ When outdoors I feed my curiosity and explorer’s element during hikes, road tr
 <p align="center">
 <a href="#about">About</a> |
 <a href="#experience">Work experience</a> |
-<a href="#projects">Projects</a> |
 <a href="#education">Education</a> |
 <a href="#hobbies-and-interests">Hobbies and Interests</a>
 </p>
